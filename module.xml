@@ -1,0 +1,17 @@
+<module>
+	<rawname>configedit</rawname>
+	<name>Config Edit</name>
+	<version>1.0.0.0</version>
+	<publisher>FreePBX</publisher>
+	<license>GPLv2+</license>
+	<type>tool</type>
+	<category>System Administration</category>
+	<menuitems>
+		<configedit>Config Edit</configedit>
+	</menuitems>
+	
+	<changelog>
+		
+	</changelog>
+
+</module>
